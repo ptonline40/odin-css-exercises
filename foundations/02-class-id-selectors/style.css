@@ -1,0 +1,15 @@
+.styleOdd {
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+  background-color: rgb(232, 133, 150);
+}
+
+#sElement {
+  font-size: 36px;
+  color: #1414a7;
+}
+
+#fElement {
+  background-color: rgb(62, 219, 62);
+  font-size: 24px;
+  font-weight: bold;
+}
